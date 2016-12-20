@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "/Users/TJX/Downloads/3035348358_3035348487_3035347811/CameraPhotoVideoUpload/E:\\AndroidStudioProjects\\CameraPhotoVideoUpload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]
